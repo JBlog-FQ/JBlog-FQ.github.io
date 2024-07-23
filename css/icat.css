@@ -488,7 +488,12 @@ blockquote {
     left: -125px;
   }
   
-
+  #home_top {
+    margin: 1rem auto 0;
+    padding: 0px 15px;
+    max-width: 1170px;
+    width: 100%;
+  }
 
  
 
