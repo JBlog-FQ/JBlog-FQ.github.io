@@ -30,7 +30,7 @@ if(PublicSacrificeDay()){
       }
   }
 
-  var bywind = {
+var bywind = {
     hideTodayCard: function() {
         document.getElementById("todayCard") && document.getElementById("todayCard").classList.add("hide")
     }
